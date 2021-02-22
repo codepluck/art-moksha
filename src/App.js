@@ -29,8 +29,6 @@ const sectionTitleRowStyle = {
 
 function App() {
 
-    // console.log((mokshaContent.artists) + " artists");
-
     return (
         <Layout>
             <Header className={'am-header'}>
