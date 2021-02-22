@@ -52,16 +52,3 @@ function App() {
 }
 
 export default App;
-// export const store = configureStore();
-//
-// const NextApp = () =>
-//     <Provider store={store}>
-//         <ConnectedRouter history={history}>
-//             <Switch>
-//                 <Route path="/" component={App}/>
-//             </Switch>
-//         </ConnectedRouter>
-//     </Provider>;
-//
-//
-// export default NextApp;
