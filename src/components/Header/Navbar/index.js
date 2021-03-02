@@ -31,7 +31,7 @@ class Navbar extends Component {
                     </Col>
                     <Col span={12}>
                         <div className="am-menu">
-                            <Button className={'am-menu-button'} type='default'>Whitepaper</Button>
+                            <Button  className={'am-menu-button'} type='default'>Login</Button>
                         </div>
                     </Col>
                 </Row>
